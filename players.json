@@ -1,0 +1,82 @@
+[
+    {
+        "endpoint": "127.0.0.1",
+        "id": 18,
+        "identifiers": [
+            "steam:110000100a60d7d",
+            "license:d8fad2aaf0e10900b3449603c800869f3e2fd73c",
+            "discord:322471858832408577",
+            "fivem:45646",
+            "license2:e7582eb6b7a78b12aafe409cdfff4acb81001f3c"
+        ],
+        "name": "Rembo",
+        "ping": 20
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 19,
+        "identifiers": [
+            "steam:110000142735526",
+            "license:b8dac7db4548740d11d3499bec4c180ac1dbbe61",
+            "discord:546860280773083141",
+            "fivem:1143386",
+            "license2:b8dac7db4548740d11d3499bec4c180ac1dbbe61"
+        ],
+        "name": "Madison",
+        "ping": 101
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 16,
+        "identifiers": [
+            "steam:11000013cf1f0ff",
+            "license:a670744bc2d1e79e8f60bd41c7d496a664d33e67",
+            "discord:476732491315806209",
+            "fivem:6057080",
+            "license2:a670744bc2d1e79e8f60bd41c7d496a664d33e67"
+        ],
+        "name": "Pieter_de_Boer",
+        "ping": 33
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 14,
+        "identifiers": [
+            "steam:11000013d4c53f9",
+            "license:874eb1dc071c67026919f9a3a1806de36c034cf4",
+            "xbl:2535466533819013",
+            "live:1899947301418257",
+            "discord:567006664113520672",
+            "fivem:838101",
+            "license2:874eb1dc071c67026919f9a3a1806de36c034cf4"
+        ],
+        "name": "SWAH",
+        "ping": 35
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 17,
+        "identifiers": [
+            "steam:11000013e57a2d0",
+            "license:4384af5b288aef385df73d244ab747408c3e2366",
+            "discord:732618334171955241",
+            "license2:8518892d172d64fe78883cccbef158d89cab2328"
+        ],
+        "name": "~g~ CGM I ~w~Alan ~o~Milton",
+        "ping": 50
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 13,
+        "identifiers": [
+            "steam:110000145fd670c",
+            "license:f47cc51cac40c6539c3a3804ead466944ed8d307",
+            "xbl:2535417887971137",
+            "live:985154021138376",
+            "discord:1174427503977316465",
+            "license2:f47cc51cac40c6539c3a3804ead466944ed8d307"
+        ],
+        "name": "AQB",
+        "ping": 28
+    }
+]

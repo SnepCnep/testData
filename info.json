@@ -55,10 +55,10 @@
         "esx_jobs",
         "esx_vehicleshop",
         "esx_barbershop",
-        "esx_optionalneeds",
-        "esx_garage",
-        "esx_context",
-        "esx_property",
+        "SnepCnepOnTop4",
+        "SnepCnepOnTop3",
+        "SnepCnepOnTop2",
+        "SnepCnepOnTop",
         "esx_banking",
         "esx_weaponshop",
         "esx_status",
@@ -83,5 +83,5 @@
         "tags": "default, deployer, esx, esx legacy, legacy, official, roleplay",
         "txAdmin-version": "7.2.2"
     },
-    "version": 323574062
+    "version": -267466854
 }

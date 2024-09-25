@@ -74,7 +74,7 @@
         "sv_enhancedHostSupport": "true",
         "sv_lan": "false",
         "sv_licenseKeyToken": "5949513xhiymc9ndvhs6wrgi_15258443:b3728b6d6592d987df5c994d35d466aeef11dd6970f11c204816a77e12b2f0ba",
-        "sv_maxClients": "2000",
+        "sv_maxClients": "64",
         "sv_poolSizesIncrease": "",
         "sv_projectDesc": "Sneppie | Anticheat",
         "sv_projectName": "Sneppie | Anticheat",

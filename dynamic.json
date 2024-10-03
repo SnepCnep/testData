@@ -4,5 +4,5 @@
             "hostname": "SnepCnepIEE22",
             "iv": "1907711873",
             "mapname": "San Andreas",
-            "sv_maxclients": "64"
+            "sv_maxclients": "30"
         },

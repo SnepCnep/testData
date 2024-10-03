@@ -1,1 +1,8 @@
-{"clients":5,"gametype":"ESX Legacy","hostname":"Sneppie | Anticheat","iv":"826115346","mapname":"San Andreas","sv_maxclients":"64"}
+        "dynamic": {
+            "clients": 11,
+            "gametype": "ESX Legacy",
+            "hostname": "SnepCnepIEE22",
+            "iv": "1907711873",
+            "mapname": "San Andreas",
+            "sv_maxclients": "64"
+        },

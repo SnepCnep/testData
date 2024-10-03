@@ -23,7 +23,7 @@
                 "sv_enhancedHostSupport": "true",
                 "sv_lan": "false",
                 "sv_licenseKeyToken": "5949949xsjqny3zkqlvhar42_15258443:685d17f3c3c0720265010aeca742f36d5bfd87c557240f69200ad2ed9b517549",
-                "sv_maxClients": "64",
+                "sv_maxClients": "30",
                 "sv_poolSizesIncrease": "",
                 "sv_projectDesc": "SnepCnepIEE A developer or idk",
                 "sv_projectName": "SnepCnepIEE22",
